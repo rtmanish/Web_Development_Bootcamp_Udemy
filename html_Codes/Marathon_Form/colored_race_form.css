@@ -1,0 +1,32 @@
+h1{
+    color: red;
+    background-color: navajowhite;
+    
+}
+p{
+    color: saddlebrown;
+    background-color: rgb(223, 241, 241);
+}
+div{
+    color: chocolate;
+    background-color: wheat;
+}
+button{
+    color:white;
+    background-color: #023e8a;
+}
+label{
+    color: darkmagenta;
+    background-color: rgb(255, 253, 247);
+    
+}
+select{
+    color: red;
+    background-color: snow;
+}
+input{
+    color: black;
+}
+body{
+    background-color: #f8edeb;
+}

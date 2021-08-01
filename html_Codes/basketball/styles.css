@@ -1,0 +1,210 @@
+body{
+  background-color: #EEEEEE;
+  font-family: 'Montserrat' sans-serif;
+
+}
+
+.navbar{
+margin-top:33%;
+width: 550px;
+height: 35px;
+border-radius: 39px;
+filter: drop-shadow(-12.021px 12.021px 9px rgba(0,0,0,0.32));
+background-color: #ffffff;
+
+
+}
+
+
+.navbar a {
+  width: 80px;
+  margin: auto;
+  padding: 15px;
+  text-align: center;
+}
+
+a :hover{
+  background-color: #a73b3b;
+  border-radius: 30px;
+  transition: ease-in-out 0.2s;
+  
+}
+.navigation1{
+  margin-top: 50px;
+}
+#new{
+  margin-top: 41px;
+}
+.nav-item{
+  padding: 0 10px;
+}
+.nav-link{
+  font-size: 0.8rem;
+  line-height: 5px;
+    font-family: 'Montserrat' sans-serif;font-weight: 600;
+    letter-spacing: 1px;
+}
+
+
+.basketball{
+  transform: rotate(135deg);
+  position: absolute;
+  left:20%;
+  top:50px;
+}
+.upper{
+  width: 10%;
+  margin-top: 50px;
+  letter-spacing: 2px;
+    font-family: 'Montserrat' sans-serif;font-weight: 700;
+    line-height: 1;
+    margin-left: 200px;
+}
+
+h1{
+margin-top: 48px;
+font-size: 100px;
+letter-spacing: 10px;
+color: #282828;
+font-weight: 600;
+font-family: "Bebas Neue";
+margin-left: 151px;
+line-height: 0.6;
+}
+
+.clinic{
+background-color: #005A8D;
+width: 320px;
+margin-left: 168px;
+font-family: "Montserrat";
+font-weight:500;
+letter-spacing: 2px;
+color: #ebebeb;
+text-align: center;
+padding-bottom: 1px;
+padding-top:4px;
+}
+
+.victoria{
+  font-size: 12px;
+    width: 23%;
+    letter-spacing: 1px;
+    line-height:1;
+    font-family: 'Montserrat' sans-serif; font-weight: 700;
+    margin-top: 1px;
+    margin-left: 10px;
+}
+.written{
+    width: 60%;
+    font-family: 'Montserrat' sans-serif; font-weight: 600;
+    margin-left: 151px;
+      line-height:1;
+      font-size: 12px;
+      margin-top:30px;
+}
+.now{
+margin-top:30px;
+margin-left: 148px;
+border-radius: 15px;
+background-color: #a73b3b;
+}
+.sites{
+  padding:5% 15%;
+  letter-spacing: 2;
+  margin-left:21px;
+
+}
+.footer{
+    margin:20px 20px;
+}
+.image1{
+ height: 65%;
+ width: 63%;
+  object-fit: contain;
+  position: absolute;
+  left: 530px;
+  top: 179px;
+
+}
+.image2{
+  height: 49%;
+ width: 74%;
+  object-fit: contain;
+  position: absolute;
+  left: 553px;
+  top: 308px;
+}
+.image3{
+  height: 55%;
+ width: 21%;
+  
+  position: absolute;
+  left: 710px;
+  top: 257px;
+}
+.image4{
+  height: 87%;
+ width: 41%;
+  
+  position: absolute;
+  left: 778px;
+  top: 82px;
+}
+.image5{
+  height: 76%;
+ width: 41%;
+  object-fit: contain;
+  position: absolute;
+  left: 812px;
+  top: 219px;
+}
+.image6{
+  height: 55%;
+ width: 41%;
+  object-fit: contain;
+  position: absolute;
+  left: 708px;
+  top: 130px;
+}
+.image7{
+  height: 45%;
+ width: 41%;
+  object-fit: contain;
+  position: absolute;
+  left: 555px;
+  top: 188px;
+}
+.image8{
+  height: 45%;
+ width: 41%;
+  object-fit: contain;
+  
+  position: absolute;
+  left: 306px;
+  top: 497px;
+}
+.image10{
+  height: 45%;
+ width: 41%;
+  object-fit: contain;
+  
+  position: absolute;
+  left: 825px;
+  top: 425px;
+}
+.image11{
+  height: 45%;
+ width: 41%;
+  object-fit: contain;
+  
+  position: absolute;
+  left: 392px;
+  top: -155px;
+}
+
+#feature{
+  padding: 10% 10%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}

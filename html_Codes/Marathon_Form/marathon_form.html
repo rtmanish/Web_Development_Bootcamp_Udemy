@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Race Registeration</title>
+    <link rel="stylesheet" href="colored_race_form.css">
+    <link rel="stylesheet" href="text_properties.css">
+</head>
+<body>
+    <h1>Race Registeration!</h1>
+    <form action="\race">
+        <label for="first">First Name
+            <input type="text" id="first" name="First Name" minlength="5" maxlength="20">
+        </label>
+        <label for="last">Last name
+            <input type="text" id="last" name="Last Name" minlength="5" maxlength="20">
+
+        </label>
+    
+        <div>
+            <p>Select a Race:</p>
+            
+            <input type="radio" id="select" value="select" name="race">
+            <label for="select">Fun Run 5k</label>
+            
+        </div>
+        <div>
+            
+            <input type="radio" id="half" checked value="half" name="race">
+            <label for="half">Half Marathon</label>
+        </div>
+        <div>
+            
+            <input type="radio" id="full" value="full" name="race">
+            <label for="full">Full Marathon</label>
+        </div>
+
+        <label for="mail">Email
+            <input type="email" id="mail" required>
+        </label>
+
+        <label for="pass">Password
+            <input type="password" id="pass" required >
+
+        </label> 
+        
+        <div>
+            <label for="age">Select Age Group</label>
+            <select name="age" id="age" >
+                <option value="a" selected>under 18</option>
+                <option value="a">18-22</option>
+                <option value="a">23-25</option>
+            </select>
+        </div>
+        <button>Register</button>
+
+    </form>
+    
+    
+</body>
+</html>

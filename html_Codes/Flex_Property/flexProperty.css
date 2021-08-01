@@ -1,0 +1,17 @@
+#my{
+    
+    background-color: cornflowerblue;
+    border: 5px cornflowerblue solid;
+    width: 1000px;
+    height: 500px;
+    margin: 2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+#my div{
+    height:100px;
+    width: 500px;
+    
+}
